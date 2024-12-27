@@ -1,0 +1,1 @@
+This example demonstrates an issue with Perl's hash iteration.  Perl hashes do not guarantee a specific iteration order.  The solution shows how to iterate in a predictable order if needed.
